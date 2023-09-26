@@ -8,6 +8,7 @@
 import subprocess
 ```
 * 安装这个库，然后在你的代码中引用
+* 写一个名为get_hwid的函数
 ```python
 def get_hwid():
   CREATE_NO_WINDOW = 0x08000000
