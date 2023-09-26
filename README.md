@@ -1,3 +1,2 @@
-# Leaves
-个人博客
-https://mrbzbz.github.io/Leaves/
+#HWID验证网页
+用于软件使用HWID验证用户是否合法的网页，在网页上存储内部人员的HWID以供验证
