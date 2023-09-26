@@ -8,7 +8,7 @@
 import subprocess
 import hashlib
 ```
-* 安装这个些库，然后在你的代码中引用
+* 安装这些库，然后在你的代码中引用
 * 写一个名为get_hwid的函数
 ```python
 def get_hwid():
