@@ -43,3 +43,7 @@ if GetLocalHwid in Web_Hwid:
 else:
   print("You aren't a user.")
 ```
+# 如何反破解
+* 给软件加壳
+* 代码混淆，加密
+* 具体怎么玩看你自己各显神通了
